@@ -1,0 +1,11 @@
+﻿生成启动时间为 2019/12/4 星期三 15:06:16。
+     1>项目“E:\my_router\my_router\my_router.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WPCAP /D HAVE_REMOTE /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Release\my_router.pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>e:\my_router\my_router\targetver.h(8): fatal error C1083: 无法打开包括文件: “SDKDDKVer.h”: No such file or directory
+     1>已完成生成项目“E:\my_router\my_router\my_router.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.21
